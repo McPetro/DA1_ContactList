@@ -1,0 +1,5 @@
+e:\users\paolo\documents\visual studio 2015\Projects\ContactList\BusinessLogic\bin\Debug\BusinessLogic.dll
+e:\users\paolo\documents\visual studio 2015\Projects\ContactList\BusinessLogic\bin\Debug\BusinessLogic.pdb
+e:\users\paolo\documents\visual studio 2015\Projects\ContactList\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+e:\users\paolo\documents\visual studio 2015\Projects\ContactList\BusinessLogic\obj\Debug\BusinessLogic.dll
+e:\users\paolo\documents\visual studio 2015\Projects\ContactList\BusinessLogic\obj\Debug\BusinessLogic.pdb

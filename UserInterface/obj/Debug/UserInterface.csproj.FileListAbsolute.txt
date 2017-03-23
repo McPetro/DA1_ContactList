@@ -1,0 +1,12 @@
+e:\users\paolo\documents\visual studio 2015\Projects\ContactList\UserInterface\bin\Debug\UserInterface.exe.config
+e:\users\paolo\documents\visual studio 2015\Projects\ContactList\UserInterface\bin\Debug\UserInterface.exe
+e:\users\paolo\documents\visual studio 2015\Projects\ContactList\UserInterface\bin\Debug\UserInterface.pdb
+e:\users\paolo\documents\visual studio 2015\Projects\ContactList\UserInterface\bin\Debug\BusinessLogic.dll
+e:\users\paolo\documents\visual studio 2015\Projects\ContactList\UserInterface\bin\Debug\BusinessLogic.pdb
+e:\users\paolo\documents\visual studio 2015\Projects\ContactList\UserInterface\obj\Debug\UserInterface.csprojResolveAssemblyReference.cache
+e:\users\paolo\documents\visual studio 2015\Projects\ContactList\UserInterface\obj\Debug\UserInterface.Contacts.resources
+e:\users\paolo\documents\visual studio 2015\Projects\ContactList\UserInterface\obj\Debug\UserInterface.Properties.Resources.resources
+e:\users\paolo\documents\visual studio 2015\Projects\ContactList\UserInterface\obj\Debug\UserInterface.csproj.GenerateResource.Cache
+e:\users\paolo\documents\visual studio 2015\Projects\ContactList\UserInterface\obj\Debug\UserInterface.exe
+e:\users\paolo\documents\visual studio 2015\Projects\ContactList\UserInterface\obj\Debug\UserInterface.pdb
+E:\Users\paolo\Documents\Visual Studio 2015\Projects\ContactList\UserInterface\obj\Debug\UserInterface.Contact.resources
