@@ -6,13 +6,17 @@ using System.Threading.Tasks;
 
 namespace BusinessLogic
 {
+    public delegate void UpdateList();
+
     public class AddressBook
     {
+        public UpdateList UpdateMethod { get; set; }
         private List<Contact> contacts;
 
         public AddressBook()
         {
             contacts = new List<Contact>(10);
+
 
             for (int i = 1; i <= 5; i++)
             {
@@ -33,6 +37,7 @@ namespace BusinessLogic
         public void AddContact( Contact newContact)
         {
             this.contacts.Add(newContact);
+            this.UpdateMethod();
         }
 
 

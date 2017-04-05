@@ -3,3 +3,8 @@ e:\users\paolo\documents\visual studio 2015\Projects\ContactList\BusinessLogic\b
 e:\users\paolo\documents\visual studio 2015\Projects\ContactList\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
 e:\users\paolo\documents\visual studio 2015\Projects\ContactList\BusinessLogic\obj\Debug\BusinessLogic.dll
 e:\users\paolo\documents\visual studio 2015\Projects\ContactList\BusinessLogic\obj\Debug\BusinessLogic.pdb
+E:\Users\paolo\Documents\Visual Studio 2015\Projects\DA1_ContactList\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\Users\paolo\Documents\Visual Studio 2015\Projects\DA1_ContactList\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\Users\paolo\Documents\Visual Studio 2015\Projects\DA1_ContactList\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+E:\Users\paolo\Documents\Visual Studio 2015\Projects\DA1_ContactList\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\Users\paolo\Documents\Visual Studio 2015\Projects\DA1_ContactList\BusinessLogic\obj\Debug\BusinessLogic.pdb

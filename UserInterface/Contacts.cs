@@ -19,12 +19,13 @@ namespace UserInterface
         {
             InitializeComponent();
             book = new AddressBook();
+            this.book.UpdateMethod = new UpdateList(this.UpdateContacts);
             this.UpdateContacts();
         }
 
         public void UpdateContacts() {
-            this.contactList.DataSource = this.book.GetContacts();
-            this.contactList.Update();
+            this.contactList.Items.Clear();
+            this.contactList.Items.AddRange(this.book.GetContacts().ToArray());
         }
 
         private void contactList_SelectedIndexChanged(object sender, EventArgs e)
